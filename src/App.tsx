@@ -8,7 +8,7 @@ function App() {
         <div className="bg-[#1f1f1f] w-93">
           <SideBar />
         </div>
-        <div className="bg-linear- w-full">
+        <div className=" w-full">
           <Navigation />
           <Body />
         </div>

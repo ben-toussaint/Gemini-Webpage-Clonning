@@ -1,9 +1,12 @@
 function Body() {
   return (
     <>
-      <div className="bg-amber-600 h-full">
-        <p>Body Content goes in Here</p>
-      </div>
+      <div
+        className="w-full min-h-screen text-white flex flex-col items-center justify-center"
+        style={{
+          background: "radial-gradient(circle, #16224f 0%, #070c21 100%)",
+        }}
+      ></div>
     </>
   );
 }
