@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div className="flex h-screen">
-        <div className="bg-[#1f1f1f] w-93">
+        <div className="bg-[#1f1f1f] w-105">
           <SideBar />
         </div>
         <div className=" w-full">

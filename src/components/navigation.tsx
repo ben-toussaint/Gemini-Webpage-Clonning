@@ -3,8 +3,8 @@ import download from "../assets/download.png";
 function Navigation() {
   return (
     <>
-      <div className="flex justify-end bg-[#1312129d] py-2.5">
-        <ul className="flex gap-4 items-center text-center">
+      <div className="flex justify-end bg-[#0f0f0fbb] py-2">
+        <ul className="flex gap-4 items-center text-center w-150">
           <li className="text-[#a8bee0]">About Gemini</li> <br />
           <li className="text-[#a8bee0]">Subscription</li>
           <li className="text-[#a8bee0]">For Business</li>
